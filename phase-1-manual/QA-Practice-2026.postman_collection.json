@@ -1,0 +1,31 @@
+{
+  "info": {
+    "_postman_id": "78ea6e52-e361-48e1-80b6-cd83587764f9",
+    "name": "QA-Practice-2026",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "57044045"
+  },
+  "item": [
+    {
+      "name": "GET User 1 (JSONPlaceholder)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://jsonplaceholder.typicode.com/users/1",
+          "protocol": "https",
+          "host": [
+            "jsonplaceholder",
+            "typicode",
+            "com"
+          ],
+          "path": [
+            "users",
+            "1"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
